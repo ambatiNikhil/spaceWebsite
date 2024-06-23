@@ -1,0 +1,13 @@
+.header{
+    background-image: url("https://img.freepik.com/free-photo/planet-earth-background_23-2150564685.jpg");
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header h1{
+    font-size: 50px;
+}
